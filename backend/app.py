@@ -15,7 +15,7 @@ CORS(app, resources={r"/*":{'origins': 'http//localhost:8080', "allow_headers":
 
 @app.route("/", methods=['GET'])
 def hello_world():
-    return "Hello, World!"
+    return "Hello, World!!!!"
 
 
 if __name__ == '__main__':
