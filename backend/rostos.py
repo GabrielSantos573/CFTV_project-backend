@@ -41,4 +41,3 @@ def gen_frames(model, label_dict, camera_index=0):
         yield (b'--frame\r\n'
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n')
         
-        
