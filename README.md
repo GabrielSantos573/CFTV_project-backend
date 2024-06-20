@@ -28,18 +28,22 @@ CFTV_project-backend/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Instalação
 Clone o repositório:
-  git clone https://github.com/GabrielSantos573/CFTV_project-backend.git
+
+    git clone https://github.com/GabrielSantos573/CFTV_project-backend.git
 
 Navegue até o diretório do projeto:
-  cd CFTV_project-backend
+
+    cd CFTV_project-backend
 
 Instale as dependências:
-  pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 ## Uso
 Para iniciar o sistema, execute o script principal:
-  python main.py
+
+        python main.py
