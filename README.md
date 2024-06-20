@@ -15,20 +15,6 @@ Este projeto visa desenvolver um sistema de inteligência artificial capaz de re
 - OpenCV
 - Dlib
 
-## Estrutura do Projeto
-
-```plaintext
-CFTV_project-backend/
-├── backend/
-│   ├── model/
-│   ├── services/
-│   └── utils/
-├── instance/
-│   └── [arquivos e modelos de dados]
-├── main.py
-├── requirements.txt
-└── README.md
-```
 
 ## Instalação
 Clone o repositório:
